@@ -150,7 +150,7 @@ const MortgageCalculator = () => {
 
                             {/* Button */}
                             <button type='submit' className="btn bg-lime w-100 fw-bold rounded-pill py-2">
-                                <img src="public/calculator-fill.svg" alt="calc" className='opacity-75 p-1' />
+                                <img src="calculator-fill.svg" alt="calc" className='opacity-75 p-1' />
                                 Calculate Repayments
                             </button>
                         </form>
@@ -164,7 +164,7 @@ const MortgageCalculator = () => {
                         <div className="col-md-6 result-border text-white d-flex flex-column justify-content-center align-items-center p-4 color-slate-900" id='results'>
                             <div className="text-center">
                                 <img
-                                    src="public/CFCalcHomeImg.png"
+                                    src="CFCalcHomeImg.png"
                                     alt="illustration"
                                     className="mb-3"
                                     style={{ width: '200px' }}
